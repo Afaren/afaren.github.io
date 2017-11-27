@@ -1,4 +1,0 @@
-#+TITLE: Sitemap
-
-   + [[file:clean-code-3.org][2017-11-27 clean-code-3]]
-   + [[file:hello-world.org][2017-11-27 hello-world]]
