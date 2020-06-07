@@ -2,7 +2,6 @@
 layout: post
 title:  你是否应该读 Clean Code 这本书 (下)
 date:   2017-11-27 22:18:35 +0800
-categories: jekyll update
 ---
 #  你是否应该读 Clean Code 这本书 (下)
 * 
